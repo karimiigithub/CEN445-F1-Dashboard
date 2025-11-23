@@ -39,7 +39,7 @@ To run this dashboard locally, follow these steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your-repo-link-here>
+    git clone <https://github.com/karimiigithub/CEN445-F1-Dashboard>
     cd F1_Dashboard
     ```
 
@@ -89,3 +89,4 @@ Per the assignment requirements, the workload and visualization design were dist
 
 ---
 *This project is submitted for the partial fulfillment of the CEN445 course requirements.*
+
