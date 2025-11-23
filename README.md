@@ -39,7 +39,7 @@ The dataset used in this project is sourced from the **Formula 1 World Champions
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your-repo-link-here>
+    git clone <https://github.com/karimiigithub/CEN445-F1-Dashboard>
     cd F1_Dashboard
     ```
 
@@ -88,4 +88,5 @@ The dataset used in this project is sourced from the **Formula 1 World Champions
         3.  Pie Chart (Race Wins).
 
 ---
+
 *This project is submitted for the partial fulfillment of the CEN445 course requirements.*
