@@ -57,7 +57,7 @@ To run this dashboard locally, follow these steps:
 ## 👥 Team Members & Contributions
 Per the assignment requirements, the workload and visualization design were distributed as follows:
 
-### **Yiğit Çetin**
+### **Yiğit Çetin - 2021556020 - **
 * **Role:** Project Lead, Data Engineering, Machine Learning Integration.
 * **Tasks:**
     * Data Cleaning & Merging Strategy (Pandas Preprocessing).
@@ -67,7 +67,7 @@ Per the assignment requirements, the workload and visualization design were dist
         2.  Box Plot (Cluster Distributions).
         3.  Interactive Scatter Plot (Grid vs. Finish).
 
-### **Ozan Dural**
+### **Ozan Dural - 2021556027 - **
 * **Role:** Geospatial Analysis & Driver Performance Analytics.
 * **Tasks:**
     * Handling geospatial data (Latitude/Longitude) processing.
@@ -77,7 +77,7 @@ Per the assignment requirements, the workload and visualization design were dist
         2.  Bar Chart (Top 10 Drivers).
         3.  Line Chart (Championship Progression).
 
-### **Seymen Bugay**
+### **Seymen Bugay - 2021556013 - **
 * **Role:** Team Analytics & UI/UX Design.
 * **Tasks:**
     * Implementing Sidebar Filters (Year & Team Selection).
@@ -89,4 +89,5 @@ Per the assignment requirements, the workload and visualization design were dist
 
 ---
 *This project is submitted for the partial fulfillment of the CEN445 course requirements.*
+
 
