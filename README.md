@@ -10,10 +10,10 @@ This project is an interactive data visualization dashboard developed to analyze
 Additionally, a **K-Means Clustering (Machine Learning)** algorithm is integrated to group drivers based on their performance metrics, providing deeper insights into driver tiers.
 
 ## 📂 Dataset Details
-The dataset used in this project is sourced from the **Formula 1 World Championship (1950 - 2024)** dataset on Kaggle (originally based on the Ergast API).
+The dataset used in this project is the **Formula 1 World Championship History 1950-2024**, obtained from Kaggle. It provides comprehensive details about races, drivers, constructors, and circuit information.
 
-* **Source Link:** [Kaggle F1 Dataset](https://www.kaggle.com/datasets/muhammadehsan02/formula-1-world-championship-history-1950-2024)
-* [cite_start]**Data Size:** The dataset contains over 26,000 race results and multiple dimension tables, exceeding the assignment requirement of 2,000 rows[cite: 6].
+* **Source Link:** [Formula 1 World Championship History 1950-2024 (Kaggle)](https://www.kaggle.com/datasets/muhammadehsan02/formula-1-world-championship-history-1950-2024)
+* **Data Size:** The dataset contains extensive historical records exceeding the assignment requirement of 2,000 rows.
 * **Files Used:**
     * `Race_Results.csv`: Main transactional data (positions, points).
     * `Driver_Details.csv`: Driver names, nationalities.
@@ -22,7 +22,7 @@ The dataset used in this project is sourced from the **Formula 1 World Champions
     * `Track_Information.csv`: Circuit coordinates (Latitude/Longitude) for geospatial analysis.
 
 ## 📊 Visualizations & Features
-[cite_start]The dashboard includes **9 distinct visualization techniques**, including 6 advanced types[cite: 11, 18]:
+The dashboard includes **9 distinct visualization techniques**, including 6 advanced types:
 
 1.  **Geospatial Scatter Map** (Advanced): Interactive map showing global race locations.
 2.  **Treemap** (Advanced): Hierarchical view of total points distributed among teams.
@@ -35,11 +35,11 @@ The dataset used in this project is sourced from the **Formula 1 World Champions
 9.  **Pie Chart**: Distribution of race wins among teams.
 
 ## 🛠️ Installation & Setup Instructions
-[cite_start]To run this dashboard locally, follow these steps:
+To run this dashboard locally, follow these steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone <https://github.com/karimiigithub/CEN445-F1-Dashboard>
+    git clone <your-repo-link-here>
     cd F1_Dashboard
     ```
 
@@ -55,13 +55,13 @@ The dataset used in this project is sourced from the **Formula 1 World Champions
     ```
 
 ## 👥 Team Members & Contributions
-[cite_start]Per the assignment requirements, the workload and visualization design were distributed as follows:
+Per the assignment requirements, the workload and visualization design were distributed as follows:
 
 ### **Yiğit Çetin**
 * **Role:** Project Lead, Data Engineering, Machine Learning Integration.
 * **Tasks:**
-    * [cite_start]Data Cleaning & Merging Strategy (Pandas Preprocessing)[cite: 9].
-    * [cite_start]Implementing **K-Means Clustering** algorithm[cite: 16].
+    * Data Cleaning & Merging Strategy (Pandas Preprocessing).
+    * Implementing **K-Means Clustering** algorithm.
     * **Visualizations Created:**
         1.  ML Scatter Plot (Clusters).
         2.  Box Plot (Cluster Distributions).
@@ -73,14 +73,14 @@ The dataset used in this project is sourced from the **Formula 1 World Champions
     * Handling geospatial data (Latitude/Longitude) processing.
     * Designing the "Driver Analysis" tab layout.
     * **Visualizations Created:**
-        1.  [cite_start]Geospatial Map (Global Race Locations).
+        1.  Geospatial Map (Global Race Locations).
         2.  Bar Chart (Top 10 Drivers).
         3.  Line Chart (Championship Progression).
 
 ### **Seymen Bugay**
 * **Role:** Team Analytics & UI/UX Design.
 * **Tasks:**
-    * [cite_start]Implementing Sidebar Filters (Year & Team Selection)[cite: 14].
+    * Implementing Sidebar Filters (Year & Team Selection).
     * Designing the "Team Analysis" tab and overall color theme.
     * **Visualizations Created:**
         1.  Treemap (Team Points Distribution).
@@ -88,5 +88,4 @@ The dataset used in this project is sourced from the **Formula 1 World Champions
         3.  Pie Chart (Race Wins).
 
 ---
-
 *This project is submitted for the partial fulfillment of the CEN445 course requirements.*
